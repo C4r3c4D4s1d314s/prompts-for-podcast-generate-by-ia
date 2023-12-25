@@ -21,6 +21,15 @@
 
 # Projeto Podcast Gerado por I.A.s
 
+<p align="center">
+<a href="www.notion.so/PAS-Podcast-AI-Studio-a9a2f1104f454e7f847acf330fded815">
+    Carlos Franco
+</a>
+</p>
+
+
+
+
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte do curso [DIO](https://dio.me)
 
