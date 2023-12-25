@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="www.notion.so/PAS-Podcast-AI-Studio-a9a2f1104f454e7f847acf330fded815">
-    Carlos Franco
+    Link do Roteiro no Notion para criar o nome do canal e um episódio via ChatGPT.
 </a>
 </p>
 
